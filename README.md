@@ -145,7 +145,7 @@ If mandatory fields are missing or empty:
 
 ``` arduino
 Copy code
-https://item-management-api.onrender.com/items/1
+https://item-management-api-ecq3.onrender.com/swagger-ui/index.html
 ```
 
 ---
